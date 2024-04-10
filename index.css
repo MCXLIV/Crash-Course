@@ -1,0 +1,156 @@
+/*style header-----------------------------*/
+head {
+    position: fixed;
+}
+h1 { 
+    color: #c1aa87f2; 
+    font-family: Monoton, sans-serif;
+    text-align: right; 
+}
+h2 {
+    color:rgba(20, 148, 198, 0.484) ; text-align: center; 
+    position:relative;
+    cursor: pointer;
+}
+h4 {
+    color:rgba(20, 148, 198, 0.484); text-align: center;
+}
+ul {
+    color:#c1aa87f2; 
+    text-align: center; 
+    display: inline-block;
+    font-weight: 14, bold;   
+}
+
+ol {
+    color:#c1aa87f2; 
+    text-align: center; 
+    font-weight: 12, bold;
+    display: inline-block;
+}
+p { 
+    color: #c1aa87f2;
+     text-align: center; 
+     font-weight: 12, bold;
+
+   
+}
+body {
+    background-image: url(Lenny_3-short.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    }
+nav {
+    background-color:rgba(0, 0, 255, 0.249);
+    position: flex;
+	
+}
+.nav-wrapper {
+   background-color: #c1aa87bf transition 0.2s; text-align: center;
+   width: 1000%;
+   height: 20%;
+   z-index: 1;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color:#c1aa87bf;
+   font-weight: 200;
+   z-index: 1;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color:#c1aa87bf;
+   font-weight: 200;
+   max-width: 1430px;
+}
+#bio { 
+    border: 1px ridge #c1aa871e; 
+    background-color: rgba(199, 13, 143, 0.259);
+    width: 50%;
+    text-align: right;
+    font-size: larger;
+    }
+aside {color:#c1aa87f2; text-align: center; 
+    text-align: left;
+    position:absolute;
+    width: 30%;
+   left: 20%;  
+    Top: 150%; 
+    font-size: larger;
+}
+#interesting-facts{
+    text-align: center; background-color: rgba(199, 13, 143, 0.154);
+}
+.Hit-Singles {
+    text-align: center; 
+    position:absolute;
+    width: 70%;
+    left: 50%;  
+    top: 85%; 
+    height: 50px;
+    color:#c1aa87f2; 
+    font-weight: 12, bold;
+    display: inline-block;
+    list-style: none
+}
+.Hit-Singles { text-align: center; 
+    position:absolute;
+    width: 70%;
+    left: 50%;  
+    top: 65%; 
+    height: 50px;
+}
+iframe{
+    position:absolute;
+   left: 30%;  
+    Top: 100%; 
+    border-style: dashed, rgba(202, 9, 193, 0.819);
+}
+#disc { 
+    border: 5px dotted #c1aa87f2;
+}
+#film {
+    color:#c1aa87f2; 
+    background-color: rgba(199, 13, 143, 0.259);
+    text-align: center;
+    position:absolute;
+    width: 30%;
+    right: 20%;  
+    Top: 250%; 
+    font-size: larger;
+}
+#socio {
+    color: rgba(202, 9, 193, 0.819); 
+    text-align:center; 
+    background-color: rgba(199, 13, 143, 0.154);
+    position:absolute;
+    width: 50%;
+    right: 30%;  
+    Top:400%; 
+    cursor: pointer;   
+}
+#awards { 
+    color:#c1aa87f2; 
+    text-align: center; 
+    background-color: rgba(199, 13, 143, 0.259);
+    text-align: left;
+    position:absolute;
+    width: 60%;
+    left: 15%;  
+    Top: 350%; 
+    font-size: larger;
+}
+footer {
+    position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: px;
+	z-index: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    text-align:right; 
+    color:#c1aa87bf;
+    font-weight: 200;
+}
